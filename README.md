@@ -1,4 +1,4 @@
-# Compare Component vs PureComponent in React
+# Compare Component and PureComponent in React
 
 ```
 yarn start
